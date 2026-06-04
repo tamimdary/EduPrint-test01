@@ -1,0 +1,6 @@
+{
+  "name": "EduPrint Mobile",
+  "description": "Mobile-first educational document builder and printable exporter for schools, colleges, and madrasas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
